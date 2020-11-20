@@ -1,0 +1,18 @@
+//    float i;
+//    std::cout << "Podaj i: " << std::endl;
+//    std::cin >> i;
+//
+//    if(i == 0.01)
+//        std::cout << "i == 0.01" << std::endl;
+//    else
+//        std::cout << "i != 0.01" << std::endl;
+//
+//    float a = 2.1;
+//    a -= 0.1;
+//    if(a == 2.0)
+//        std::cout << "a == 2.0" << std::endl;
+//    else
+//        std::cout << "a != 2.0" << std::endl;
+
+//    HomoSapiensSapiens  *kowalski = new HomoSapiensSapiens();
+//    kowalski->breathing();
